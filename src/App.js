@@ -1,24 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import AboutMe from "./components/sections/About";
+import Portfolio from "./components/sections/Portfolio";
+import Contact from "./components/sections/Contact";
+import Resume from "./components/sections/Resume";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Header />
+
+      {/* define route endpoints for different sections in the portfolio */}
+      <Routes>
+        {/* setting the "/" route to the about-me section will load the about-me section as the front page when a user first opens the application */}
+        <Route path="/" element={<AboutMe />} />
+        <Route path="/about-me" element={<AboutMe />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/resume" element={<Resume />} />
+      </Routes>
+
+      <Footer />
+    </Router>
   );
 }
 
