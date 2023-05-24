@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abeds-react-portfolio/static/css/main.5bbc0b80.css",
-    "main.js": "/abeds-react-portfolio/static/js/main.e999fdfa.js",
+    "main.js": "/abeds-react-portfolio/static/js/main.7cb42e4b.js",
     "static/media/devicon.svg?biu5f3": "/abeds-react-portfolio/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/audio-news.png": "/abeds-react-portfolio/static/media/audio-news.7af730956bb5a3070818.png",
     "static/media/employee-database-manager.png": "/abeds-react-portfolio/static/media/employee-database-manager.479342cb696b2aaff0c6.png",
@@ -23,10 +23,10 @@
     "static/media/fa-v4compatibility.woff2": "/abeds-react-portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/abeds-react-portfolio/index.html",
     "main.5bbc0b80.css.map": "/abeds-react-portfolio/static/css/main.5bbc0b80.css.map",
-    "main.e999fdfa.js.map": "/abeds-react-portfolio/static/js/main.e999fdfa.js.map"
+    "main.7cb42e4b.js.map": "/abeds-react-portfolio/static/js/main.7cb42e4b.js.map"
   },
   "entrypoints": [
     "static/css/main.5bbc0b80.css",
-    "static/js/main.e999fdfa.js"
+    "static/js/main.7cb42e4b.js"
   ]
 }
