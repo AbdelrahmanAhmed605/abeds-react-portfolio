@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Abeds React Portfolio
+This portfolio page is created with a React environment to showcase Abdelrahman's skills and talents and highlights of his biggest projects to date
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+**Live Deployed Application: https://abdelrahmanahmed605.github.io/abeds-react-portfolio/**
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+Abdelrahman Ahmed is a full-stack developer based in Vancouver, Canada. This project is a display of Abdelrahman's portfolio which showcases his most notable projects to date. The portfolio was created using a React environment and allows viewers to examine his work and determine his level of skills. In this project, Abdelrahman learnt the following skills:
+- Setting up a React development environment by configuring tools and dependencies.
+- Rendering components and functions from separate files to the React DOM for modular code organization.
+- Implementing React Router to create navigational links that render different sections of the application based on the clicked route.
+- Utilizing React's useState hook to manage and update state within components, enabling dynamic content and interactivity.
+- Applying keys to items rendered within a mapping function to improve efficiency by allowing React to identify and update only the specific modified items, instead of re-rendering the entire list.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [How to Contribute](#how-to-contribute)
+- [Tests](#tests)
+- [Questions](#questions)
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+N/A
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The link to the website can be found here: https://abdelrahmanahmed605.github.io/abeds-react-portfolio/. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To use Abdelrahman's website, you can use the navigation bar to render the different sections of the portfolio: about me, portfolio, contact, resume.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- The about me section contains information on Abdelrahman's information and bio.
+- The portfolio section contains images of Abdelrahman's projects. When hovered, the projects show information on the project name, as well as the technologies/skills used for the project. If the user clicks on the images, they will be redirected to the live deployed website of the corresponding project. There is also a github icon that appears when the user hovers over the project images. This will take the user to he github repository for the corrresponding project.
+- The contact section contains a form allowing the user to enter their information and submit their inputted information as an email sent to abdelrahman's email. When the form is submitted, the user's email application will open up with all their inputted information placed in the email's sections.
+- The resume section contains a list of all of Abdelrahman's current skills. The resume section also contains a link to allow the user to download Abdelrahman's resume for a detailed viewing.
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is licensed under the MIT License. To see the license permissions for commercial and non-commercial use, modification, and distribution of the software, please see the full text of the license, available at https://opensource.org/licenses/MIT.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## How to Contribute
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+N/A
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Tests
 
-## Learn More
+N/A
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Questions
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you have any questions regarding this application, feel free to reach me at abdelrahman.ahmed605@hotmail.com with the subject title "Questions for React Portfolio"
+You can also find me on github here: https://github.com/AbdelrahmanAhmed605
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
