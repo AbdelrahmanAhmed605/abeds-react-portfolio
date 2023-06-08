@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abeds-react-portfolio/static/css/main.5bbc0b80.css",
-    "main.js": "/abeds-react-portfolio/static/js/main.7cb42e4b.js",
+    "main.js": "/abeds-react-portfolio/static/js/main.128e6b30.js",
     "static/media/devicon.svg?biu5f3": "/abeds-react-portfolio/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/audio-news.png": "/abeds-react-portfolio/static/media/audio-news.7af730956bb5a3070818.png",
     "static/media/employee-database-manager.png": "/abeds-react-portfolio/static/media/employee-database-manager.479342cb696b2aaff0c6.png",
@@ -15,18 +15,18 @@
     "static/media/fa-solid-900.woff2": "/abeds-react-portfolio/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/scriptomatic.png": "/abeds-react-portfolio/static/media/scriptomatic.4b15083e2b77d49ea47b.png",
     "static/media/fa-brands-400.woff2": "/abeds-react-portfolio/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/WiseGuide.png": "/abeds-react-portfolio/static/media/WiseGuide.d11de99e59c28150dc41.png",
     "static/media/Abdelrahman Ahmed Resume.pdf": "/abeds-react-portfolio/static/media/Abdelrahman Ahmed Resume.7a6bce7202ecded7d605.pdf",
     "static/media/fa-regular-400.ttf": "/abeds-react-portfolio/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/note-taker.png": "/abeds-react-portfolio/static/media/note-taker.fa0f49fa125745b42606.png",
     "static/media/fa-regular-400.woff2": "/abeds-react-portfolio/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/fa-v4compatibility.ttf": "/abeds-react-portfolio/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/abeds-react-portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/abeds-react-portfolio/index.html",
     "main.5bbc0b80.css.map": "/abeds-react-portfolio/static/css/main.5bbc0b80.css.map",
-    "main.7cb42e4b.js.map": "/abeds-react-portfolio/static/js/main.7cb42e4b.js.map"
+    "main.128e6b30.js.map": "/abeds-react-portfolio/static/js/main.128e6b30.js.map"
   },
   "entrypoints": [
     "static/css/main.5bbc0b80.css",
-    "static/js/main.7cb42e4b.js"
+    "static/js/main.128e6b30.js"
   ]
 }
