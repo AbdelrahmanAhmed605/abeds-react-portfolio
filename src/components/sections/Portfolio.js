@@ -10,12 +10,21 @@ import empDBManagerImage from "../assets/images/employee-database-manager.png";
 import weatherDashImage from "../assets/images/weather-dashboard.png";
 import teamProfileGenImage from "../assets/images/team-profile-generator.png";
 import noteTakerImage from "../assets/images/note-taker.png";
+import wiseGuideImage from "../assets/images/WiseGuide.png";
 
 function Portfolio() {
   // array containing information on each project
   const projects = [
     {
       id: 1,
+      name: "WiseGuide",
+      skills: "MongoDB/ Express.js / React / Node.js / GraphQL / Apollo-Client",
+      liveLink: "https://mighty-island-49010.herokuapp.com/",
+      githubLink: "https://github.com/JABOWG/wise-guide",
+      image: wiseGuideImage,
+    },
+    {
+      id: 2,
       name: "SCRIPTOMATIC",
       skills: "MySQl/ Sequelize/ Express.js/ Handlebars",
       liveLink: "https://shrouded-garden-51163.herokuapp.com/",
@@ -23,7 +32,7 @@ function Portfolio() {
       image: scriptomaticImage,
     },
     {
-      id: 2,
+      id: 3,
       name: "AUDIO NEWS",
       skills: "jQuery/ VoiceRSS API/ Gnews API/ Bulma CSS",
       liveLink: "https://audio-news.github.io/audio-news/",
@@ -31,7 +40,7 @@ function Portfolio() {
       image: audioNewsImage,
     },
     {
-      id: 3,
+      id: 4,
       name: "EMPLOYEE DATABASE MANAGER",
       skills: "MySQL/ Node.js/ NPM Inquirer",
       liveLink:
@@ -41,7 +50,7 @@ function Portfolio() {
       image: empDBManagerImage,
     },
     {
-      id: 4,
+      id: 5,
       name: "WEATHER DASHBOARD",
       skills: "OpenWeather API/ BootStrap/ jQuery/ Browser LocalStorage",
       liveLink: "https://abdelrahmanahmed605.github.io/weather-dashboard/",
@@ -49,21 +58,13 @@ function Portfolio() {
       image: weatherDashImage,
     },
     {
-      id: 5,
+      id: 6,
       name: "TEAM PROFILE GENERATOR",
       skills: "Object-Oriented Programming/ Test-Driven Development (Jest)",
       liveLink: "https://github.com/AbdelrahmanAhmed605/team-profile-generator",
       githubLink:
         "https://github.com/AbdelrahmanAhmed605/team-profile-generator",
       image: teamProfileGenImage,
-    },
-    {
-      id: 6,
-      name: "NOTE TAKER",
-      skills: "Express.js",
-      liveLink: "https://damp-gorge-21732.herokuapp.com/",
-      githubLink: "https://github.com/AbdelrahmanAhmed605/note-taker",
-      image: noteTakerImage,
     },
   ];
 
