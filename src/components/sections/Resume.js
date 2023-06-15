@@ -6,8 +6,13 @@ function Resume() {
     <div className="container">
       <div className="my-2 fs-5">
         {/* donwloads the reusme when the anchor is clicked */}
-        Download my
-        <a href={resumePDF} target="_blank" download="resume.pdf">
+        Download my{" "}
+        <a
+          href={resumePDF}
+          target="_blank"
+          download="resume.pdf"
+          rel="noopener noreferrer"
+        >
           Resume
         </a>
       </div>

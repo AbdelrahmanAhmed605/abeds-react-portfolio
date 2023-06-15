@@ -8,7 +8,7 @@ function About() {
           Abdelrahman <span className="text-primary">Ahmed</span>
         </h1>
         <div className="subheading mb-5">
-          Vancouver, BC · (236) 866-2132 ·
+          Vancouver, BC · (236) 866-2132 ·{" "}
           <a href="mailto:abdelrahman.ahmed605@hotmail.com">
             abdelrahman.ahmed605@hotmail.com
           </a>
