@@ -7,6 +7,8 @@ This portfolio page is created with a React environment to showcase Abdelrahman'
 
 ## Description
 
+![image](src/components/assets/images/portfolio.png)
+
 Abdelrahman Ahmed is a full-stack developer based in Vancouver, Canada. This project is a display of Abdelrahman's portfolio which showcases his most notable projects to date. The portfolio was created using a React environment and allows viewers to examine his work and determine his level of skills. In this project, Abdelrahman learnt the following skills:
 - Setting up a React development environment by configuring tools and dependencies.
 - Rendering components and functions from separate files to the React DOM for modular code organization.
