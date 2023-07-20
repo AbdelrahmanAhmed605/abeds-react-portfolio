@@ -4,17 +4,27 @@ import Modal from "./Modal"; // Import your modal component here
 import "../assets/css/Portfolio.css";
 
 // Import project images
+import mernEcommerceImage from "../assets/images/mern-ecommerce.png"
 import scriptomaticImage from "../assets/images/scriptomatic.png";
 import audioNewsImage from "../assets/images/audio-news.png";
 import empDBManagerImage from "../assets/images/employee-database-manager.png";
 import weatherDashImage from "../assets/images/weather-dashboard.png";
-import teamProfileGenImage from "../assets/images/team-profile-generator.png";
 import wiseGuideImage from "../assets/images/WiseGuide.png";
 
 // array containing information on each project
 const projects = [
   {
     id: 1,
+    name: "MERN E-COMMERCE",
+    description:
+      "A full-stack ecommerce website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application provides users with the ability to browse and purchase products, manage their shopping cart, and track their orders. It includes features such as user authentication, product search, reviews, and a responsive user interface.",
+    skills: "MongoDB/ Express.js / React / Node.js / GraphQL / Apollo-Client",
+    liveLink: "https://abeds-mern-ecommerce-e78e4f542dbd.herokuapp.com/",
+    githubLink: "https://github.com/AbdelrahmanAhmed605/mern-ecommerce",
+    image: mernEcommerceImage,
+  },
+  {
+    id: 2,
     name: "WiseGuide",
     description:
       "Web application that leverages Open AI's ChatGPT API to provide personalized tutoring and assistance across a wide range of subjects for learners of all ages",
@@ -24,7 +34,7 @@ const projects = [
     image: wiseGuideImage,
   },
   {
-    id: 2,
+    id: 3,
     name: "SCRIPTOMATIC",
     description:
       "Web application that enables writers to create and manage their scripts, and agents to browse, purchase and own scripts posted on the platform",
@@ -34,7 +44,7 @@ const projects = [
     image: scriptomaticImage,
   },
   {
-    id: 3,
+    id: 4,
     name: "AUDIO NEWS",
     description:
       "Web application that allows users to search news articles and then have them read out using text to speech API",
@@ -44,7 +54,7 @@ const projects = [
     image: audioNewsImage,
   },
   {
-    id: 4,
+    id: 5,
     name: "EMPLOYEE DATABASE MANAGER",
     description:
       "Command-line application that manages a company's employee database, using Node.js, Inquirer, and MySQL",
@@ -56,7 +66,7 @@ const projects = [
     image: empDBManagerImage,
   },
   {
-    id: 5,
+    id: 6,
     name: "WEATHER DASHBOARD",
     description:
       "Web application containing a weather dashboard which displays weather data for multiple cities using third-party API calls to OpenWeather",
@@ -64,16 +74,6 @@ const projects = [
     liveLink: "https://abdelrahmanahmed605.github.io/weather-dashboard/",
     githubLink: "https://github.com/AbdelrahmanAhmed605/weather-dashboard",
     image: weatherDashImage,
-  },
-  {
-    id: 6,
-    name: "TEAM PROFILE GENERATOR",
-    description:
-      "Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.",
-    skills: "Object-Oriented Programming/ Test-Driven Development (Jest)",
-    liveLink: "https://github.com/AbdelrahmanAhmed605/team-profile-generator",
-    githubLink: "https://github.com/AbdelrahmanAhmed605/team-profile-generator",
-    image: teamProfileGenImage,
   },
 ];
 
