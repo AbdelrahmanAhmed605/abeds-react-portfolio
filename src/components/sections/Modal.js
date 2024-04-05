@@ -1,5 +1,5 @@
-import React from "react";
-import "../assets/css/Modal.css";
+import React from 'react';
+import '../assets/css/Modal.css';
 
 const Modal = ({ project, closeModal }) => {
   return (
@@ -33,14 +33,16 @@ const Modal = ({ project, closeModal }) => {
             >
               Live Site
             </a>
-            <a
-              href={project.githubLink}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn btn-primary"
-            >
-              GitHub Repo
-            </a>
+            {project.githubLink && (
+              <a
+                href={project.githubLink}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn btn-primary"
+              >
+                GitHub Repo
+              </a>
+            )}
           </div>
         </div>
       </div>
