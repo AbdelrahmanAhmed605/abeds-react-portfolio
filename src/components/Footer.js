@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <ul className="my-4 list-inline list-social-icons mb-0 d-flex justify-content-center">
+    <ul className="my-4 list-inline list-social-icons mb-0 d-flex justify-content-center pb-3">
       <li className="list-inline-item">
         {/* link to my twitter, using the font-awesome twitter icon */}
         <a
