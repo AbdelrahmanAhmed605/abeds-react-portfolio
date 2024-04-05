@@ -19,7 +19,6 @@ function App() {
         <Route path="/" element={<AboutMe />} />
         {/* the "/abeds-react-portfolio" route is the path for the github pages site that is created since that is the name of the repository */}
         <Route path="/abeds-react-portfolio" element={<AboutMe />} />
-        <Route path="/about-me" element={<AboutMe />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/resume" element={<Resume />} />

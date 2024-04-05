@@ -14,7 +14,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-light bg-light py-3 mb-5">
       <div className="container-fluid">
         {/* Link tags are used instead of anchor tags as client side routes. These will take the user to the endpoints defined in App.js */}
-        <Link className="navbar-brand" to="/about-me">
+        <Link className="navbar-brand" to="/">
           Abed's Portfolio
         </Link>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
@@ -23,7 +23,7 @@ function Navbar() {
               className={`nav-link ${
                 activeOption === "about-me" ? "active" : ""
               } fs-5 me-4`}
-              to="/about-me"
+              to="/"
               onClick={() => handleNavOptionClick("about-me")}
             >
               About Me
