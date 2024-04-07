@@ -22,7 +22,7 @@ const Modal = ({ project, closeModal }) => {
 
   return (
     <div className="modal-overlay">
-      <div className="modal-dialog modal-lg modal-dialog-centered" ref={modalRef}>
+      <div className="modal-dialog modal-lg modal-dialog-centered justify-content-center" ref={modalRef}>
         <div className="modal-content">
           <div className="modal-header">
             <h5 className="modal-title">{project.name}</h5>
