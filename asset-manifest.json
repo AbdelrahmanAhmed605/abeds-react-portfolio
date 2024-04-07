@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abeds-react-portfolio/static/css/main.4a9ed4b2.css",
-    "main.js": "/abeds-react-portfolio/static/js/main.ef52d377.js",
+    "main.js": "/abeds-react-portfolio/static/js/main.a161616f.js",
     "static/media/devicon.svg?iehcku": "/abeds-react-portfolio/static/media/devicon.de33ff67547800466a48.svg",
     "static/media/home-amie.png": "/abeds-react-portfolio/static/media/home-amie.25089621d0818bc9c292.png",
     "static/media/devicon.woff?iehcku": "/abeds-react-portfolio/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
@@ -22,10 +22,10 @@
     "static/media/fa-v4compatibility.woff2": "/abeds-react-portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/abeds-react-portfolio/index.html",
     "main.4a9ed4b2.css.map": "/abeds-react-portfolio/static/css/main.4a9ed4b2.css.map",
-    "main.ef52d377.js.map": "/abeds-react-portfolio/static/js/main.ef52d377.js.map"
+    "main.a161616f.js.map": "/abeds-react-portfolio/static/js/main.a161616f.js.map"
   },
   "entrypoints": [
     "static/css/main.4a9ed4b2.css",
-    "static/js/main.ef52d377.js"
+    "static/js/main.a161616f.js"
   ]
 }
