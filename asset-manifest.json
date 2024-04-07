@@ -1,32 +1,31 @@
 {
   "files": {
-    "main.css": "/abeds-react-portfolio/static/css/main.663a17c0.css",
-    "main.js": "/abeds-react-portfolio/static/js/main.cfcfc2ca.js",
-    "static/media/devicon.svg?biu5f3": "/abeds-react-portfolio/static/media/devicon.f715b4139afc5236a6e6.svg",
+    "main.css": "/abeds-react-portfolio/static/css/main.4a9ed4b2.css",
+    "main.js": "/abeds-react-portfolio/static/js/main.ef52d377.js",
+    "static/media/devicon.svg?iehcku": "/abeds-react-portfolio/static/media/devicon.de33ff67547800466a48.svg",
+    "static/media/home-amie.png": "/abeds-react-portfolio/static/media/home-amie.25089621d0818bc9c292.png",
+    "static/media/devicon.woff?iehcku": "/abeds-react-portfolio/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
+    "static/media/devicon.ttf?iehcku": "/abeds-react-portfolio/static/media/devicon.161b6f3376d6ce5c517d.ttf",
     "static/media/audio-news.png": "/abeds-react-portfolio/static/media/audio-news.7af730956bb5a3070818.png",
     "static/media/employee-database-manager.png": "/abeds-react-portfolio/static/media/employee-database-manager.479342cb696b2aaff0c6.png",
-    "static/media/devicon.eot?biu5f3": "/abeds-react-portfolio/static/media/devicon.afa70020fddd5e5a3260.eot",
-    "static/media/devicon.woff?biu5f3": "/abeds-react-portfolio/static/media/devicon.96fdfd136e8a467e1861.woff",
-    "static/media/devicon.ttf?biu5f3": "/abeds-react-portfolio/static/media/devicon.b25739c2b9d15a53d60c.ttf",
     "static/media/fa-solid-900.ttf": "/abeds-react-portfolio/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/mern-ecommerce.png": "/abeds-react-portfolio/static/media/mern-ecommerce.22d84c2983ea28b6e564.png",
-    "static/media/weather-dashboard.png": "/abeds-react-portfolio/static/media/weather-dashboard.f15111bf5aed3a97e61a.png",
     "static/media/fa-brands-400.ttf": "/abeds-react-portfolio/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/abeds-react-portfolio/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/scriptomatic.png": "/abeds-react-portfolio/static/media/scriptomatic.4b15083e2b77d49ea47b.png",
     "static/media/fa-brands-400.woff2": "/abeds-react-portfolio/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
     "static/media/WiseGuide.png": "/abeds-react-portfolio/static/media/WiseGuide.d11de99e59c28150dc41.png",
     "static/media/fa-regular-400.ttf": "/abeds-react-portfolio/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/Abdelrahman Ahmed Resume.pdf": "/abeds-react-portfolio/static/media/Abdelrahman Ahmed Resume.f9b453a07f61f27924dd.pdf",
+    "static/media/Abdelrahman Ahmed Resume.pdf": "/abeds-react-portfolio/static/media/Abdelrahman Ahmed Resume.9b643363f169fdca8692.pdf",
     "static/media/fa-regular-400.woff2": "/abeds-react-portfolio/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/fa-v4compatibility.ttf": "/abeds-react-portfolio/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/abeds-react-portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/abeds-react-portfolio/index.html",
-    "main.663a17c0.css.map": "/abeds-react-portfolio/static/css/main.663a17c0.css.map",
-    "main.cfcfc2ca.js.map": "/abeds-react-portfolio/static/js/main.cfcfc2ca.js.map"
+    "main.4a9ed4b2.css.map": "/abeds-react-portfolio/static/css/main.4a9ed4b2.css.map",
+    "main.ef52d377.js.map": "/abeds-react-portfolio/static/js/main.ef52d377.js.map"
   },
   "entrypoints": [
-    "static/css/main.663a17c0.css",
-    "static/js/main.cfcfc2ca.js"
+    "static/css/main.4a9ed4b2.css",
+    "static/js/main.ef52d377.js"
   ]
 }
