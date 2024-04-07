@@ -1,10 +1,28 @@
-import React from 'react';
+import React, { useRef, useEffect } from 'react';
 import '../assets/css/Modal.css';
 
 const Modal = ({ project, closeModal }) => {
+  // Create a ref for the modal content
+  const modalRef = useRef();
+
+  // Function to handle click outside modal content
+  const handleClickOutside = (event) => {
+    if (modalRef.current && !modalRef.current.contains(event.target)) {
+      closeModal();
+    }
+  };
+
+  // Attach event listener on mount
+  useEffect(() => {
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, []);
+
   return (
-    <div className="modal-overlay" onClick={closeModal}>
-      <div className="modal-dialog modal-lg modal-dialog-centered">
+    <div className="modal-overlay">
+      <div className="modal-dialog modal-lg modal-dialog-centered" ref={modalRef}>
         <div className="modal-content">
           <div className="modal-header">
             <h5 className="modal-title">{project.name}</h5>
