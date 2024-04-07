@@ -88,10 +88,10 @@ function Resume() {
             <i className="devicon-python-plain colored devicon-lg"></i> Python
           </li>
           <li>
-            <i className="devicon-django-plain colored"> Django</i>
+            <i className="devicon-django-plain colored"></i> Django
           </li>
           <li>
-            <i className="devicon-djangorest-plain colored"> Django REST</i>
+            <i className="devicon-djangorest-plain colored"></i> Django REST
           </li>
           <li>
             <i className="devicon-mongodb-plain colored devicon-lg"></i> MongoDB
